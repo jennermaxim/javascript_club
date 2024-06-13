@@ -24,3 +24,6 @@ Install Node.js <a href="https://nodejs.org/" target="_blank">here</a>
 
 <!-- ### To run the Application
 `npm run dev` -->
+
+### Run the Project
+use `git clone https://github.com/jennermaxim/javascript_club.git`
