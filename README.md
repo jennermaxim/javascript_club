@@ -14,6 +14,7 @@ Install Node.js <a href="https://nodejs.org/" target="_blank">here</a>
 - npm create vite@latest client --template react
 - cd client
     - npm install
+    - npm install axios moment react-file-base64 redux redux-thunk
 
 ### Backend (Server Side Application)
 - mkdir server
@@ -21,5 +22,5 @@ Install Node.js <a href="https://nodejs.org/" target="_blank">here</a>
     - npm init -y
     - npm install body-parser cors express mongoose nodemon
 
-### To run the Application
-`npm run dev`
+<!-- ### To run the Application
+`npm run dev` -->
