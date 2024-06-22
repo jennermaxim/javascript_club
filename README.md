@@ -15,7 +15,7 @@ Install Node.js <a href="https://nodejs.org/" target="_blank">here</a>
 - cd client
     - npm install
     - npm install axios moment react-file-base64 redux redux-thunk
-    - npm install @material-ui/core
+    - npm install @mui/material @emotion/react @emotion/styled
 
 ### Backend (Server Side Application)
 - mkdir server
